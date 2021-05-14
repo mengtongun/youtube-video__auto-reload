@@ -1,4 +1,4 @@
-# ytbot
+# Auto Reload Youtube Video Link Frontend
 
 ## Project setup
 ```
@@ -15,5 +15,5 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Link: https://viewbot.netlify.app/
